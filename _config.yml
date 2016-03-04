@@ -1,0 +1,28 @@
+name: oaktastic
+favicon: null
+layout_spectrum: 0.4503595004789531
+typography_spectrum: 0.3279142517130822
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.050161718390882015
+  lightness: 0.5854444245342165
+  saturation: 0.6487395763397217
+  rhythmicContrast: 0.3593148610088974
+purpose: []
